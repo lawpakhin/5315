@@ -39,7 +39,7 @@
       "Singer": "No",
       "School": "Seattle University",
       "COUNTRY": "USA"
-    },
+    }
     
   ]
 }
